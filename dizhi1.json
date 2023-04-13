@@ -1,5 +1,5 @@
 ﻿{
-"spider": "clan://TVBox/xpg.jar",
+"spider": "https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
@@ -25,7 +25,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "clan://TVBox/xpg.jar"
+			"jar": "https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar"
 		},
 		{
 			"key": "csp_Kunyu77",
