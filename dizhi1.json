@@ -1,5 +1,5 @@
 ﻿{
-"spider": "https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
@@ -25,7 +25,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar"
+			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar"
 		},
 		{
 			"key": "csp_Kunyu77",
@@ -110,18 +110,11 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-{"key":"AList","name":"Alist[jar]","type":3,"api":"csp_AList","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/alistjar.json"},
-{"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/alist.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/alist.json"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/token.txt"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/token.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/token.txt"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/token.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/token.txt"},
-{"key":"drpy_js_360影视","name":"360[js]","type":3,"api":"//TVBox/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺[js]","type":3,"api":"//TVBox/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"//TVBox/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯[js]","type":3,"api":"//TVBox/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"芒果[js]","type":3,"api":"//TVBox/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/百忙无果.js"},
+{"key":"drpy_js_360影视","name":"360[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾讯[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"芒果[js]","type":3,"api":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/lib/drpy.min.js","ext":"https://gitee.com/xinyitv/tvbox-zb/tree/master/JS/js/百忙无果.js"},
 
 		{
 			"key": "csp_xpath_球迷2",
