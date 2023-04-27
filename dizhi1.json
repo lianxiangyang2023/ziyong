@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
@@ -25,7 +25,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/lianxiangyang2023/ziyong/main/xpg.jar"
+			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 		{
 			"key": "csp_Kunyu77",
