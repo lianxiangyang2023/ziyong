@@ -1,10 +1,10 @@
 🎂|连依韩生日专场,#genre#
 连依韩生日0,
-连依韩生日1,
-连依韩生日2,
-连依韩生日3,
-连依韩生日4,
-连依韩生日5,
+连依韩生日1,http://52bsj.vip:81/api/v3/file/get/145909/%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F.mp4?sign=BLghQnQ0V0LvrVYpPq_L_hWwWcGwBF8LQDwFa9yXIwM%3D%3A0
+连依韩生日2,http://52bsj.vip:81/api/v3/file/get/145910/%E6%90%9E%E7%AC%91%E7%94%9F%E6%97%A5%E4%B8%93%E5%9C%BA.mp4?sign=lWenEKyu11MBR3QenweBPXMdD7tbwWJDuYb2ZtFO3zE%3D%3A0
+连依韩生日3,http://52bsj.vip:81/api/v3/file/get/145911/%E6%90%9E%E7%AC%91%E7%94%9F%E6%97%A5%E4%B8%93%E5%9C%BA2.mp4?sign=bLAu3LInADOsSp4Nfv_meI5M6nFtVrHUGFOfk5KjfUQ%3D%3A0
+连依韩2018年,http://52bsj.vip:81/api/v3/file/get/145908/%E8%BF%9E%E4%BE%9D%E9%9F%A92018%E5%B9%B4.mp4?sign=RIemKVp0S8JG72whhVO5HsJkQ2rJ9oa6FzlWbqBaV1k%3D%3A0
+连依韩2019年,http://52bsj.vip:81/api/v3/file/get/145912/%E8%BF%9E%E4%BE%9D%E9%9F%A92019%E5%B9%B4.mp4?sign=dto_KCVT7P6MRJMrGWs605kQYjtKdCNaPq8imA11jLY%3D%3A0
 🎂|央视频道,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
