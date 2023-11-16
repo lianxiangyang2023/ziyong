@@ -38,8 +38,8 @@
         {"key":"dr_荐片","name":"🧲荐片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/荐片.js"},
         
        
-        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-        {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},      
+        //{"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
+        //{"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},      
         {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"},
        
         {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
